@@ -3,7 +3,8 @@
 ### About Me
 
 I'm a full stack developer and competitive programming enthusiast...
-##Skills
+
+## Skills
 -C, C++, Java, Python, Kotlin, Dart...
 -SQL | DBMS | MySql | Oracle
 -API's and JSON
