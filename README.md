@@ -19,8 +19,6 @@ I'm a full stack developer and competitive programming enthusiast...
 -OOP Concepts | DSA
 
 
-## Links
-linkedln
 
 
 <!---
