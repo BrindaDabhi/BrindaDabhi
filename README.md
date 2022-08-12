@@ -6,17 +6,17 @@ I'm a full stack developer and competitive programming enthusiast...
 
 ## Skills
 
--C, C++, Java, Python, Kotlin, Dart...
+C, C++, Java, Python, Kotlin, Dart...
 
--SQL | DBMS | MySql | Oracle
+SQL | DBMS | MySql | Oracle
 
--API's and JSON
+API's and JSON
 
--Firebase | Android Studio | Flutter
+Firebase | Android Studio | Flutter
 
--Computer Network | Operating System
+Computer Network | Operating System
 
--OOP Concepts | DSA
+OOP Concepts | DSA
 
 
 
